@@ -8,4 +8,4 @@ CREATE DATABASE boo;
 USE boo;
 
 // DB loeschen --> Dann ist ALLES weg!
-DROP DATABASE boo; 
+DROP DATABASE boo;
